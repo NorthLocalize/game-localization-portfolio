@@ -1,25 +1,57 @@
-# Game & Software Localization Portfolio
+# 🌍 Game & Software Localization
 
-Welcome!
+<div align="center">
 
-This repository contains my localization portfolio and showcase projects.
+### Bringing digital projects closer to Russian & Ukrainian players.
 
-I specialize in localizing digital products from **English → Russian** and **English → Ukrainian**.
-
----
-
-## 📌 Services
-
-* 🎮 Indie game localization
-* 🌐 Website localization
-* 🤖 Discord server localization
-* 💬 Discord bot localization
-* 📦 GitHub README & documentation
-* 📱 Application and software localization
+**English → Russian 🇷🇺**
+**English → Ukrainian 🇺🇦**
 
 ---
 
-## 🌍 Languages
+![Status](https://img.shields.io/badge/Portfolio-Building-orange?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-0-lightgrey?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-EN→RU%20%7C%20EN→UA-blue?style=for-the-badge)
+
+</div>
+
+---
+
+# 👋 Welcome
+
+Hi!
+
+I'm building a localization portfolio focused on **indie games** and **digital products**.
+
+My goal is simple:
+
+> Help developers make their projects accessible to Russian and Ukrainian audiences with clean, natural localization.
+
+---
+
+# 🎯 What I localize
+
+🎮 Indie Games
+
+🌐 Websites
+
+🤖 Discord Servers
+
+💬 Discord Bots
+
+📦 GitHub README
+
+📚 Documentation
+
+🖥️ Desktop Applications
+
+📱 Mobile Apps
+
+⚙️ Configuration & Language Files
+
+---
+
+# 🌍 Supported Languages
 
 | Source       | Target         |
 | ------------ | -------------- |
@@ -28,44 +60,114 @@ I specialize in localizing digital products from **English → Russian** and **E
 
 ---
 
-## 📂 Portfolio
+# ✨ Localization Workflow
 
-Projects will be added here as they are completed.
+Every project follows the same workflow:
 
-| Project     | Type | Status         |
-| ----------- | ---- | -------------- |
-| Coming soon | Game | 🚧 In Progress |
+```text
+Original
+      ↓
+AI-assisted Draft
+      ↓
+Manual Review
+      ↓
+Terminology Check
+      ↓
+UI & Context Verification
+      ↓
+Final Localization
+```
 
----
+Machine translation is only used as a tool.
 
-## ✨ Localization Workflow
-
-Every localization goes through several steps:
-
-* Translation
-* Human review
-* Terminology check
-* UI/context verification
-* Final proofreading
-
-Machine translation may be used as an assistant, but every project is manually reviewed and adapted to sound natural.
-
----
-
-## 🤝 Collaboration
-
-If you're developing an indie game, application, website, Discord server or open-source project and you're interested in adding Russian or Ukrainian localization, feel free to get in touch.
+Every localization is manually reviewed and improved before delivery.
 
 ---
 
-## 📫 Contact
+# 📂 Portfolio
 
-Discord: *coming soon*
+## 🎮 Games
 
-Email: *coming soon*
-
-GitHub Issues: enabled
+| Project     | Status |
+| ----------- | ------ |
+| Coming Soon | 🚧     |
 
 ---
 
-> This repository is continuously updated as new localization projects are completed.
+## 🌐 Websites
+
+| Project     | Status |
+| ----------- | ------ |
+| Coming Soon | 🚧     |
+
+---
+
+## 🤖 Discord
+
+| Project     | Status |
+| ----------- | ------ |
+| Coming Soon | 🚧     |
+
+---
+
+## 📦 GitHub
+
+| Project     | Status |
+| ----------- | ------ |
+| Coming Soon | 🚧     |
+
+---
+
+# 📈 Progress
+
+* 🎮 Published Games: **0**
+* 🌐 Websites: **0**
+* 🤖 Discord Projects: **0**
+* 📦 GitHub Projects: **0**
+
+*(Updating as new projects are completed.)*
+
+---
+
+# 🤝 Open for Collaboration
+
+I'm always interested in helping indie developers expand their audience.
+
+If you're working on:
+
+* a game
+* an application
+* a Discord community
+* an open-source project
+
+and you'd like to add Russian or Ukrainian localization, feel free to reach out.
+
+---
+
+# 📫 Contact
+
+Discord: *Coming Soon*
+
+Email: *Coming Soon*
+
+GitHub Issues: Enabled
+
+---
+
+# ⚠ Disclaimer
+
+All trademarks, game assets, logos and copyrights belong to their respective owners.
+
+This repository showcases my localization work and is intended solely as a portfolio.
+
+If any developer prefers their showcase materials to be removed, please contact me and I will do so promptly.
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ❤️
+
+Portfolio is continuously growing.
+
+</div>
