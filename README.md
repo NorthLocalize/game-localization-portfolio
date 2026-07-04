@@ -67,7 +67,7 @@ Every project follows the same workflow:
 ```text
 Original
       ↓
-AI-assisted Draft
+Script Translate
       ↓
 Manual Review
       ↓
