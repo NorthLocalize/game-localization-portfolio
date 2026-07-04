@@ -146,9 +146,9 @@ and you'd like to add Russian or Ukrainian localization, feel free to reach out.
 
 # 📫 Contact
 
-Discord: *Coming Soon*
+Discord: voidsilence
 
-Email: *Coming Soon*
+Email: misterbandit2021@gmail.com
 
 GitHub Issues: Enabled
 
