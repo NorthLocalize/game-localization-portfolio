@@ -10,7 +10,7 @@
 ---
 
 ![Status](https://img.shields.io/badge/Portfolio-Building-orange?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-0-lightgrey?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-2-lightgrey?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-EN→RU%20%7C%20EN→UA-blue?style=for-the-badge)
 
 </div>
@@ -21,7 +21,7 @@
 
 Hi!
 
-I'm building a localization portfolio focused on **indie games** and **digital products**.
+I'm building a localization portfolio focused on **digital products**.
 
 My goal is simple:
 
@@ -31,7 +31,7 @@ My goal is simple:
 
 # 🎯 What I localize
 
-🎮 Indie Games
+🎮 Games
 
 🌐 Websites
 
@@ -40,8 +40,6 @@ My goal is simple:
 💬 Discord Bots
 
 📦 GitHub README
-
-📚 Documentation
 
 🖥️ Desktop Applications
 
@@ -90,7 +88,10 @@ Every localization is manually reviewed and improved before delivery.
 
 | Project     | Status |
 | ----------- | ------ |
-| Coming Soon | 🚧     |
+| Drug Dealer Simulator 2 | ✅     |
+| Waddle Detour | ✅     |
+| Pixel Postcards | ?  |
+
 
 ---
 
@@ -120,7 +121,7 @@ Every localization is manually reviewed and improved before delivery.
 
 # 📈 Progress
 
-* 🎮 Published Games: **0**
+* 🎮 Published Games: **2**
 * 🌐 Websites: **0**
 * 🤖 Discord Projects: **0**
 * 📦 GitHub Projects: **0**
