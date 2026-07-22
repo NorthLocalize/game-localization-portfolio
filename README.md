@@ -10,7 +10,7 @@
 ---
 
 ![Status](https://img.shields.io/badge/Portfolio-Building-orange?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-2-lightgrey?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-3-lightgrey?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-EN→RU%20%7C%20EN→UA-blue?style=for-the-badge)
 
 </div>
@@ -90,7 +90,7 @@ Every localization is manually reviewed and improved before delivery.
 | ----------- | ------ |
 | Drug Dealer Simulator 2 | ✅     |
 | Waddle Detour | ✅     |
-| Pixel Postcards | ?  |
+| Pixel Postcards | ✅  |
 
 
 ---
@@ -121,7 +121,7 @@ Every localization is manually reviewed and improved before delivery.
 
 # 📈 Progress
 
-* 🎮 Published Games: **2**
+* 🎮 Published Games: **0.5(1 game in demo)**
 * 🌐 Websites: **0**
 * 🤖 Discord Projects: **0**
 * 📦 GitHub Projects: **0**
